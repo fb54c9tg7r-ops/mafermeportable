@@ -4,8 +4,8 @@
 
 ## Responsable du traitement
 
-[Ton nom]
-Contact : [ton email]
+Ma Ferme portable
+Contact :mafermeportable@gmail.com
 
 ## Données collectées
 
@@ -22,7 +22,7 @@ Contact : [ton email]
 
 ## Hébergement
 
-Tes données sont stockées chez Supabase (région : [UE / autre, à vérifier dans Settings → General de ton projet Supabase]).
+Tes données sont stockées chez Supabase (région :UE).
 
 ## Durée de conservation
 
